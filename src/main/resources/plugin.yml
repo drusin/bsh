@@ -1,0 +1,13 @@
+name: "Bungeecord_sh"
+version: 0.0.1
+main: xyz.rusin.mvinvimporter.Bsh
+api-version: 1.16
+author: loganthemanster
+commands:
+  Bsh:
+    description: Main command
+    permission: bsh
+    usage: "Usage: bsh [filename]"
+permissions:
+  bsh:
+    description: Use the command
