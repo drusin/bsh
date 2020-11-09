@@ -1,6 +1,6 @@
 name: "Bungeecord_sh"
 version: 0.0.1
-main: xyz.rusin.mvinvimporter.Bsh
+main: xyz.rusin.bsh.Bsh
 api-version: 1.16
 author: loganthemanster
 commands:
