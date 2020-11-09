@@ -1,4 +1,4 @@
-package xyz.rusin.mvinvimporter;
+package xyz.rusin.bsh;
 
 import java.io.File;
 
